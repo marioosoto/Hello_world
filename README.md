@@ -3,7 +3,7 @@ First github repository
 
 ------------------------
 
-This is my first repository in GitHub.
+This is my first repository on GitHub.
 First commit. Modify Readme.
 
 .........................
